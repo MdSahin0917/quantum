@@ -1,0 +1,7 @@
+streamlit
+numpy
+plotly
+streamlit-authenticator
+pyyaml
+shutil
+pandas
